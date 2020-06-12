@@ -1,3 +1,8 @@
-h1 {
-  color: #f00;
+body {
+  font-family: helvetica, sans-serif;
+  color: #222;
+}
+
+.container {
+  width: 960px;
 }
